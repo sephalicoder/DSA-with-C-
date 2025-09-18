@@ -12,4 +12,4 @@ ARRAY
 STRINGS: 
 1.  Length of Last Word: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/eda089c1d468b5ab5cf3e644074ae4d568ee59d9/STRINGS/Length%20of%20Last%20Word)
 2. Valid Palindrome :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/8662670f78d8aad9d7d8df317d330aa2b469a638/STRING/Valid%20Palindrome)
-
+3.  Longest Substring Without Repeating Characters: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/0550514649f4b702884e074e5998183286fb7b99/STRINGS/Longest%20Substring%20Without%20Repeating%20Characters)
