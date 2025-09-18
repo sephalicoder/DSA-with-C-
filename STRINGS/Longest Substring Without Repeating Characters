@@ -1,0 +1,30 @@
+/* Author: Sephali 
+   Date: 18-09-25
+   Description:   Longest Substring Without Repeating Characters */
+
+
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        vector<int> lastIndex(256, -1); // stores last index of each character
+        int maxLen = 0;
+        int start = 0; // left pointer of window
+
+        for (int i = 0; i < s.size(); i++) {
+            // If character already seen, move start
+            if (lastIndex[s[i]] >= start) {
+                start = lastIndex[s[i]] + 1;
+            }
+
+            lastIndex[s[i]] = i; // update last index of current char
+            maxLen = max(maxLen, i - start + 1);
+        }
+
+        return maxLen;
+    }
+};
