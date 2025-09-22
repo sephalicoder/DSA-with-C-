@@ -18,10 +18,10 @@ ARRAY
 4. Remove Element: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/b82ea9f9e959842ef9566f1051dd493d8269e40e/ARRAY/Remove%20Element)
 
 STRING BASICS: 
-INSERTION ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Insertion.cpp)
-SEARCHING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Searching.cpp)
-DELETING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Deletion.cpp)
-ACCESSING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Accessing.cpp)
+1. INSERTION ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Insertion.cpp)
+2. SEARCHING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Searching.cpp)
+3. DELETING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Deletion.cpp)
+4. ACCESSING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Accessing.cpp)
 
 STRINGS:
 
