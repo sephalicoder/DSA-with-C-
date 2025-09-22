@@ -4,10 +4,10 @@ DSA PROBLEMS :
 
 
 ARRAY BASICS: 
-INSERTION ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY%20BASICS%20/basics2.cpp)
-SEARCHING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/04b4888d9ceb51efc3e66f2891f9e8a833a0e13a/ARRAY%20BASICS%20/basics.cpp)
-DELETING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY%20BASICS/Deleting.cpp)
-ACCESSING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY%20BASICS/Accessing.cpp)
+1. INSERTION ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY%20BASICS%20/basics2.cpp)
+2. SEARCHING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/04b4888d9ceb51efc3e66f2891f9e8a833a0e13a/ARRAY%20BASICS%20/basics.cpp)
+3. DELETING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY%20BASICS/Deleting.cpp)
+4. ACCESSING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY%20BASICS/Accessing.cpp)
 
 ARRAY 
 1. Two Sum PROBLEM :  [CLICK HERE ](https://github.com/sephalicoder/DSA-with-C-/blob/b5d79ecf0c674b88ca5eec1766b467514c80aa73/ARRAY/TwoSum.cpp)
@@ -18,10 +18,10 @@ ARRAY
 4. Remove Element: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/b82ea9f9e959842ef9566f1051dd493d8269e40e/ARRAY/Remove%20Element)
 
 STRING BASICS: 
-INSERTION ELEMENT AT ith POSITION : [CLICK HERE]()
-SEARCHING ELEMENT AT ith POSITION : [CLICK HERE]()
-DELETING ELEMENT AT ith POSITION : [CLICK HERE]()
-ACCESSING ELEMENT AT ith POSITION : [CLICK HERE]()
+INSERTION ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Insertion.cpp)
+SEARCHING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Searching.cpp)
+DELETING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Deletion.cpp)
+ACCESSING ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Accessing.cpp)
 
 STRINGS:
 
