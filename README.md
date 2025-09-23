@@ -16,6 +16,11 @@ ARRAY
 3. Remove Duplicates from Sorted Array : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/fe4a5c7ae50e8eb69c772c8e0c51b24cb0df9ee0/ARRAY/Remove%20Duplicates%20from%20Sorted%20Array)
 
 4. Remove Element: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/b82ea9f9e959842ef9566f1051dd493d8269e40e/ARRAY/Remove%20Element)
+5. Find First and Last Position of Element in Sorted Array
+: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY/firstandlastpos.cpp)
+6.  PERMUTATION: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY/permutation.cpp)
+7. SEARCH IN ROTATED ARRAY: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY/searchinarray.cpp)
+8.SEARCH INSERT POSTION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/ARRAY/searchinsertpos.cpp)
 
 STRING BASICS: 
 1. INSERTION ELEMENT AT ith POSITION : [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/STRING%20BASICS/Insertion.cpp)
@@ -32,3 +37,15 @@ STRINGS:
 BIT MANUPILATION: 
 
 Reverse Bits: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/BIT%20MANUPILATION/Reversebits.cpp)
+
+SORTING:
+1. INTERSECTION OF TWO ARRAYS:  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/SORTING/intersectionoftwoarray.cpp)
+2. MERGE SORT ARRAY:  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/SORTING/mergesortarray.cpp)
+3.  SORT COLORS :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/SORTING/sortcolors.cpp)
+
+BACKTRACKING:
+1. Sudoku Solver :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/BACKTRACKING/Sudokusolver.cpp)
+2.  COMBINATION SUM :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/BACKTRACKING/combinationSum.cpp)
+3.   PERMUTATION :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/BACKTRACKING/permutation.cpp)
+   
+
