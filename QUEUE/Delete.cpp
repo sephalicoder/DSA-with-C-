@@ -1,6 +1,7 @@
 /* Author: Sephali
    Date: 25-09-2025
-   Description: Queue basic operations  Delete
+   Description: Queue Delete (Dequeue)
+*/
 
 #include <iostream>
 using namespace std;
@@ -16,7 +17,13 @@ public:
         front = -1;
         rear = -1;
     }
-// Delete element (Dequeue)
+
+    void enqueue(int value) {
+        if (rear == SIZE - 1) return;
+        if (front == -1) front = 0;
+        arr[++rear] = value;
+    }
+
     void dequeue() {
         if (front == -1 || front > rear) {
             cout << "Queue Underflow!\n";
@@ -24,3 +31,28 @@ public:
         }
         cout << "Deleted: " << arr[front++] << endl;
     }
+
+    void display() {
+        if (front == -1 || front > rear) {
+            cout << "Queue is Empty!\n";
+            return;
+        }
+        cout << "Queue: ";
+        for (int i = front; i <= rear; i++)
+            cout << arr[i] << " ";
+        cout << endl;
+    }
+};
+
+int main() {
+    Queue q;
+    q.enqueue(10);
+    q.enqueue(20);
+    q.enqueue(30);
+
+    q.display();
+    q.dequeue();
+    q.display();
+
+    return 0;
+}
