@@ -1,6 +1,6 @@
 /* Author: Sephali
    Date: 25-09-2025
-   Description: Queue basic operations Insert
+   Description: Queue Insert (Enqueue)
 */
 
 #include <iostream>
@@ -18,8 +18,6 @@ public:
         rear = -1;
     }
 
-
-    // Insert element (Enqueue)
     void enqueue(int value) {
         if (rear == SIZE - 1) {
             cout << "Queue Overflow!\n";
@@ -27,4 +25,26 @@ public:
         }
         if (front == -1) front = 0;
         arr[++rear] = value;
+        cout << "Inserted: " << value << endl;
     }
+
+    void display() {
+        if (front == -1 || front > rear) {
+            cout << "Queue is Empty!\n";
+            return;
+        }
+        cout << "Queue: ";
+        for (int i = front; i <= rear; i++)
+            cout << arr[i] << " ";
+        cout << endl;
+    }
+};
+
+int main() {
+    Queue q;
+    q.enqueue(10);
+    q.enqueue(20);
+    q.enqueue(30);
+    q.display();
+    return 0;
+}
