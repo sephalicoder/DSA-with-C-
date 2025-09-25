@@ -34,6 +34,18 @@ STRINGS:
 2. Valid Palindrome :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/8662670f78d8aad9d7d8df317d330aa2b469a638/STRING/Valid%20Palindrome)
 3.  Longest Substring Without Repeating Characters: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/0550514649f4b702884e074e5998183286fb7b99/STRINGS/Longest%20Substring%20Without%20Repeating%20Characters)
 
+LINKED LIST: 
+1. INSERT:  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/LINKED%20LIST%20/Insert.cpp)
+2. SEARCHING :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/LINKED%20LIST%20/Search)
+3. DELETION :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/LINKED%20LIST%20/Delete.cpp)
+4. UPDATING :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/LINKED%20LIST%20/Update.cpp)
+
+QUEUE:
+1. INSERT:  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/QUEUE/Insert.cpp)
+2. SEARCHING :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/QUEUE/Search.cpp)
+3. DELETION :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/QUEUE/Delete.cpp)
+4. UPDATING :  [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/QUEUE/Update.cpp)
+
 BIT MANUPILATION: 
 
 Reverse Bits: [CLICK HERE](https://github.com/sephalicoder/DSA-with-C-/blob/main/BIT%20MANUPILATION/Reversebits.cpp)
