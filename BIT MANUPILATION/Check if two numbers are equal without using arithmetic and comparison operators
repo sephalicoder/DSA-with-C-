@@ -1,0 +1,25 @@
+/* Author: Sephali 
+   Date:  2-11-25
+   Description: Check if two numbers are equal without using arithmetic and comparison operators
+*/
+
+
+
+
+#include <iostream>
+using namespace std;
+
+
+void areSame(int a, int b)
+{
+    if (a ^ b)
+        cout << "Not Same";
+    else
+        cout << "Same";
+}
+
+int main()
+{
+
+    areSame(10, 20);
+}
