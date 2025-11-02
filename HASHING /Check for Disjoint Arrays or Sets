@@ -1,0 +1,46 @@
+/* Author: Sephali 
+   Date: 2-11-25
+   Description: Check for Disjoint Arrays or Sets
+*/
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+bool areDisjoint(vector<int> &a, vector<int> &b) {
+    
+ 
+    sort(a.begin(), a.end());
+    sort(b.begin(), b.end());
+    
+
+    int i = 0, j = 0;
+    
+    while(i < a.size() && j < b.size()) {
+        
+       
+        if(a[i] == b[j])
+            return false;
+            
+      
+        if(a[i] < b[j])
+            i++;
+        else
+            j++;
+    }
+    
+    return true;
+}
+
+int main() {
+    vector<int> a = {12, 34, 11, 9, 3};
+    vector<int> b = {7, 2, 1, 5};
+    
+    if(areDisjoint(a, b))
+        cout << "True";
+    else
+        cout << "False";
+        
+    return 0;
+}
