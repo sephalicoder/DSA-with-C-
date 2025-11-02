@@ -1,0 +1,31 @@
+/* Author: Sephali 
+   Date:  2-11-25
+   Description: Binary representation of a given number
+*/
+
+
+
+
+#include <iostream>
+using namespace std;
+
+string getBinaryRep(int n) {
+
+    string ans = "";
+    
+    
+    for (int i=31; i>=0; i--) {
+         
+        if (n&(1<<i)) ans += '1';
+        else ans += '0';
+    }
+    
+    return ans;
+}
+
+int main() {
+    int n = 2;
+    cout << getBinaryRep(n);
+
+    return 0;
+}
